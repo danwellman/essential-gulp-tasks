@@ -1,0 +1,4 @@
+{
+    "preset": "crockford",
+    "excludeFiles": ["./src/vendor/**/*.js"]
+}

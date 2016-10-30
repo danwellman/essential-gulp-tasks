@@ -1,0 +1,10 @@
+﻿$brand: blue;
+$text-color: black;
+
+.outer-container {
+    color: $text-color;
+
+    header {
+        background-color: $brand;
+    }
+}

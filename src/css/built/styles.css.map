@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","sources":["styles.scss"],"sourcesContent":["$brand: blue;\r\n$text-color: black;\r\n\r\n.outer-container {\r\n    color: $text-color;\r\n\r\n    header {\r\n        background-color: $brand;\r\n    }\r\n}"],"mappings":"AAGA,AAAA,gBAAgB,CAAC;EACb,KAAK,EAHI,KAAK,GAQjB;EAND,AAGI,gBAHY,CAGZ,MAAM,CAAC;IACH,gBAAgB,EAPhB,IAAI,GAQP","names":[]}
